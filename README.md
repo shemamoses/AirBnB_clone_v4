@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AirBnB Clone V4
 
 This is a complete full-stack web application, integrating a MySQL database and Flask RESTful API with a dynamic HTML5/CSS3/jQuery front-end.
@@ -214,3 +215,6 @@ For future projects, this serves as a great base for beginning to understand oth
 🔹 [LinkedIn](https://www.linkedin.com/in/jhoan-stiven-zamora-caicedo/)
 
 🔹 [Twitter](https://twitter.com/JhoanZamora10)
+=======
+# AirBnB_clone_v4
+>>>>>>> 667156b489c7e3237480f525f288507e9e2f9dee
